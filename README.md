@@ -2,6 +2,18 @@
 
 This portfolio project involves analyzing Zomato customer data using SQL queries. The project includes various queries to extract insights such as customer spending, visit frequency, popular items, and more.
 
+##Data Overview
+| Column           | Description                                     | Data Type  |
+|------------------|-------------------------------------------------|------------|
+| userid           | Unique identifier for users                     | INTEGER    |
+| signup_date      | Date when the user signed up                    | DATE       |
+| product_id       | Unique identifier for products                  | INTEGER    |
+| created_date     | Date when the sales transaction occurred        | DATE       |
+| gold_signup_date | Date when the user upgraded to gold membership  | DATE       |
+| product_name     | Name of the product                             | TEXT       |
+| price            | Price of the product                            | INTEGER    |
+
+
 ## Instructions
 - Set up a MySQL database and execute the provided SQL script to create tables and insert sample data.
 - Run the SQL queries provided in the script to analyze the data and derive insights.
