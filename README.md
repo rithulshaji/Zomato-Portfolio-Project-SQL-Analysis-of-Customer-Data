@@ -2,7 +2,7 @@
 
 This portfolio project involves analyzing Zomato customer data using SQL queries. The project includes various queries to extract insights such as customer spending, visit frequency, popular items, and more.
 
-##Data Overview
+## Data Overview
 | Column           | Description                                     | Data Type  |
 |------------------|-------------------------------------------------|------------|
 | userid           | Unique identifier for users                     | INTEGER    |
